@@ -36,6 +36,7 @@ task.resume()
 ### App Walkthough GIF
 <img src='http://recordit.co/ZGtjNeGY0b.gif' width=250><br>
 <img src='http://g.recordit.co/E9NRE2QvXv.gif' width=500><br>
+<img src='http://g.recordit.co/gRLoe1bMEL.gif' width=500><br>
 
 ### Notes
 I find making the app working for various devices and orientations the most challenging.
